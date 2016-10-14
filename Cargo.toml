@@ -6,4 +6,4 @@ authors = ["Pocket7878 <poketo7878@gmail.com>"]
 [dependencies]
 iron = "0.4.0"
 r2d2 = "0.7.0"
-r2d2_mysql = { git = "https://github.com/pocket7878/r2d2-mysql.git", branch = "update-r2d2-version" }
+r2d2_mysql = { git = "https://github.com/outersky/r2d2-mysql.git" }
